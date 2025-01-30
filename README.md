@@ -19,6 +19,7 @@ here some comands you need
   ssh root@"your ip"  
 
   mkdir ./the_forest
+  cd ./the_forest
 
   nano tfserver.sh      - If you have no experience, first look at how to work in the nano
 
@@ -54,6 +55,7 @@ Cloud Servers - выберите ближайший регион
  ssh root@"your ip"  
 
   mkdir ./the_forest
+   cd ./the_forest
 
   nano tfserver.sh      - Если у вас нет опыта, сначала посмотрите, как работать в nano
 
